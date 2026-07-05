@@ -1,0 +1,12 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
